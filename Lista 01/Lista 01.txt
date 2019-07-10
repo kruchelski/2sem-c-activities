@@ -1,0 +1,25 @@
+Atividade para carga horária em EAD - 02/08
+
+E1) Faça um programa que apresente os números de 1 a 10, sendo que cada número deve ser impresso em uma linha e os números ímpares deslocados (\t) a direita.
+
+E2) Faça um programa que apresente os números de 1 a 15 na forma de um triangulo, como apresentado a seguir:
+
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+
+Utilize nesse exercício apenas 1 laço
+
+E3) Faça um programa que apresente a tabela ASCII (0 a 255), no formato de 16x16, tendo a 1a linha e a 1a coluna rotulada com o valor em hexadecimal de 0 a F.
+
+Obs: Inicialmente, substitua os valores < 32 por 32, para evitar a impressão dos códigos de controle. 
+
+E4) Faça um programa que apresente os números primos menores que 100.
+
+E5) Faça um programa que leia um número (N) e apresente os N-termos da série de fibonacci.
+
+Lembre-se que a série de fibona é dada por: 0,1,1,2,3,5...
+
+onde os dois primeiros termos são 0 e 1 e do terceiro termo em diante é obtida pela soma dos dois anteriores.
